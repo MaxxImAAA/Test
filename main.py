@@ -1,2 +1,2 @@
 print("Я установил PyCharm!")
-print("assdfsd");
+print("Hello");
